@@ -6,7 +6,7 @@ This bit of software is a simple "Hello world" where I demonstrate a print state
 
 My purpose for creating this software is to show I hold minimal competency in pressing buttons on a computer.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/meyA-N6fgLI)
 
 ## Development Environment
 
